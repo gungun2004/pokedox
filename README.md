@@ -1,6 +1,7 @@
 ### Pokedex App 🐾
 This is a React-based Pokedex application 🖥️ that allows users to browse and search for Pokémon 🐉. The app fetches data from the PokeAPI 🌐 and displays Pokémon details in an interactive and visually appealing way. 🎨
 ### Features 🌟
+
 - 🐾 Browse a list of Pokémon with their names, images, and types.
 - 🔎 Search for Pokémon by name.
 - 🎯 Filter Pokémon by type.
@@ -11,15 +12,15 @@ This is a React-based Pokedex application 🖥️ that allows users to browse an
 
 
 ### Available Scripts 🛠️
-In the project directory, you can run:
-npm start 🚀
-Runs the app in development mode. 🌟
-Open http://localhost:3000 🌐 to view it in your browser.
-The page will reload 🔄 when you make changes.
-You may also see any lint errors in the console. 🚧
-npm run build 📦
-Builds the app for production to the build folder. 🏗️
-It correctly bundles React in production mode 🔧 and optimizes the build for the best performance. 🌟
+-In the project directory, you can run:
+-npm start 🚀
+-Runs the app in development mode. 🌟
+-Open http://localhost:3000 🌐 to view it in your browser.
+-The page will reload 🔄 when you make changes.
+-You may also see any lint errors in the console. 🚧
+-npm run build 📦
+-Builds the app for production to the build folder. 🏗️
+-It correctly bundles React in production mode 🔧 and optimizes the build for the best performance. 🌟
 
 ### Technologies Used 💻
 - ⚛️ React
@@ -27,8 +28,8 @@ It correctly bundles React in production mode 🔧 and optimizes the build for t
 - 🌐 PokeAPI for Pokémon data
 
 ### Learn More 📚
-To learn React, check out the React documentation 🌟.
-To learn more about Create React App, check out the Create React App documentation 📖.
+-To learn React, check out the React documentation 🌟(https://react.dev/).
+-To learn more about Create React App, check out the Create React App documentation 📖(https://react.dev/learn/creating-a-react-app)
 
 ### Deployment 🌎
 This app is deployed on Netlify. 🌐 Live URL: https://pokedox-gungun.netlify.app
