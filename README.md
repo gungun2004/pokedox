@@ -10,6 +10,7 @@ This is a React-based Pokedex application that allows users to browse and search
 - View detailed information about a Pokémon in a popup.
 - Responsive design for mobile and desktop devices.
 
+  ![Beige New Product Mockup Now Available Facebook Post (1)](https://github.com/user-attachments/assets/f6762cff-73d3-42af-9aae-d5f482d651aa)
 ## Available Scripts
 
 In the project directory, you can run:
@@ -17,7 +18,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](https://pokedox-gungun.netlify.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -41,9 +42,19 @@ To learn more about Create React App, check out the [Create React App documentat
 
 ## Deployment
 
-This app can be deployed to any static hosting service, such as GitHub Pages, Netlify, or Vercel.
+This app is deployed on Netlify. Live URL: https://pokedox-gungun.netlify.app
 
 ## License
 
 This project is licensed under the MIT License.
+
+## Demo Video 
+
+
+
+
+https://github.com/user-attachments/assets/ff1a58a5-347f-4635-b646-0afb5fd73d40
+
+
+
 
